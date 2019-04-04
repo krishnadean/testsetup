@@ -1,4 +1,3 @@
-<?php 
-`git pull`;
+<?php `git pull`;
 `git fetch`;
 `git merge origin/master`;
